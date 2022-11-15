@@ -1,0 +1,81 @@
+''
+'' Colors and style for SSI Software Services
+'' Based on the mars theme: 
+'' https://github.com/future-architect/puml-themes/tree/master/themes
+'' Author: Ulrich Luttner
+''
+skinparam BackgroundColor EBF9FF
+skinparam shadowing false
+skinparam RoundCorner 1
+skinparam ArrowColor 2B2637
+skinparam FontColor 2B2637
+skinparam SequenceLifeLineBorderColor 565669
+skinparam SequenceGroupHeaderFontColor 2B2637
+skinparam SequenceGroupFontColor 565669
+skinparam SequenceGroupBackgroundColor 4FD6E5
+skinparam SequenceGroupBorderColor 565669
+skinparam SequenceGroupBorderThickness 1
+
+skinparam sequenceDivider {
+    BorderColor 2B2637
+    BorderThickness 1.5
+    FontColor 2B2637
+}
+
+skinparam participant {
+    BackgroundColor CC0033
+    BorderColor CC0033
+    FontColor FFF
+    BorderThickness 1
+}
+
+skinparam database {
+    BackgroundColor 4FD6E5
+    BorderColor 2B2637
+    FontColor 2B2637
+}
+
+skinparam entity {
+    BackgroundColor 8E99AF
+    BorderColor 2B2637
+    FontColor 2B2637
+}
+
+skinparam note {
+    BackgroundColor 4FD6E5
+    BorderColor 2B2637
+    FontColor 2B2637
+    BorderThickness 1
+}
+
+skinparam actor {
+    BackgroundColor 2B2637
+    BorderColor 2B2637
+    FontColor 2B2637
+}
+
+skinparam boundary {
+    BackgroundColor 8E99AF
+    BorderColor 2B2637
+    FontColor 2B2637
+}
+
+skinparam control {
+    BackgroundColor 8E99AF
+    BorderColor 2B2637
+    FontColor 2B2637
+}
+
+skinparam collections {
+    BackgroundColor CC0033
+    BorderColor 2B2637
+    FontColor FFF
+    BorderThickness 1.5
+}
+
+skinparam queue {
+    BackgroundColor CC0033
+    BorderColor 2B2637
+    FontColor FFF
+    BorderThickness 1.5
+}
