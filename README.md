@@ -1,2 +1,2 @@
-# ssi
+# SSI
 SSI stuff
