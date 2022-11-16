@@ -5,7 +5,7 @@
 '' Author: Ulrich Luttner
 ''
 
-'define colors
+' define colors
 !$red		= "#CC0033"
 !$blue		= "#4fd6e5"
 !$dark1		= "#2c2c44"
@@ -16,6 +16,9 @@
 !$lgray		= "#edf2f4"
 !$lblue		= "#ebf9ff"
 
+' define font
+skinparam defaultFontName RobotoCondensed-Regular
+'skinparam defaultFontName IBMPlexSerif
 
 skinparam BackgroundColor EBF9FF
 skinparam shadowing false
