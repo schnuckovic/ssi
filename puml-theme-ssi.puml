@@ -4,6 +4,19 @@
 '' https://github.com/future-architect/puml-themes/tree/master/themes
 '' Author: Ulrich Luttner
 ''
+
+'define colors
+!$red		= "CC0033"
+!$blue		= "4fd6e5"
+!$dark1		= "2c2c44"
+!$dark2		= "2b2637"
+!$black		= "080f27"
+!$dark		= "565669"
+!$gray		= "8e99af"
+!$lightgray	= "edf2f4"
+!$lightblue	= "ebf9ff"
+
+
 skinparam BackgroundColor EBF9FF
 skinparam shadowing false
 skinparam RoundCorner 1

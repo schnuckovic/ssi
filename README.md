@@ -1,2 +1,2 @@
 # SSI
-SSI stuff
+Public SSI stuff.
