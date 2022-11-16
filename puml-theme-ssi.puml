@@ -5,18 +5,6 @@
 '' Author: Ulrich Luttner
 ''
 
-'define colors
-!global $red		= "#CC0033"
-!global $blue		= "#4fd6e5"
-!global $dark1		= "#2c2c44"
-!global $dark2		= "#2b2637"
-!global $black		= "#080f27"
-!global $dark		= "#565669"
-!global $gray		= "#8e99af"
-!global $lightgray	= "#edf2f4"
-!global $lightblue	= "#ebf9ff"
-
-
 skinparam BackgroundColor EBF9FF
 skinparam shadowing false
 skinparam RoundCorner 1
