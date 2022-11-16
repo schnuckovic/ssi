@@ -5,6 +5,21 @@
 '' Author: Ulrich Luttner
 ''
 
+<<<<<<< HEAD
+=======
+'define colors
+!$red		= "#CC0033"
+!$blue		= "#4fd6e5"
+!$dark1		= "#2c2c44"
+!$dark2		= "#2b2637"
+!$black		= "#080f27"
+!$dark		= "#565669"
+!$gray		= "#8e99af"
+!$lgray		= "#edf2f4"
+!$lblue		= "#ebf9ff"
+
+
+>>>>>>> f0db65a (colors do work. just not allowed to use spaces in swimlane declaration)
 skinparam BackgroundColor EBF9FF
 skinparam shadowing false
 skinparam RoundCorner 1
