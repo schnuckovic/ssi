@@ -20,78 +20,84 @@
 skinparam defaultFontName RobotoCondensed-Regular
 'skinparam defaultFontName IBMPlexSerif
 
-skinparam BackgroundColor EBF9FF
+skinparam BackgroundColor $lblue
 skinparam shadowing false
 skinparam RoundCorner 1
-skinparam ArrowColor 2B2637
-skinparam FontColor 2B2637
-skinparam SequenceLifeLineBorderColor 565669
-skinparam SequenceGroupHeaderFontColor 2B2637
-skinparam SequenceGroupFontColor 565669
-skinparam SequenceGroupBackgroundColor 4FD6E5
-skinparam SequenceGroupBorderColor 565669
+skinparam ArrowColor $black
+skinparam FontColor $black
+skinparam SequenceLifeLineBorderColor $dark2
+skinparam SequenceGroupHeaderFontColor $dark2
+skinparam SequenceGroupFontColor $dark
+skinparam SequenceGroupBackgroundColor $blue
+skinparam SequenceGroupBorderColor $dark
 skinparam SequenceGroupBorderThickness 1
 
 skinparam sequenceDivider {
-    BorderColor 2B2637
+    BorderColor $dark2
     BorderThickness 1.5
-    FontColor 2B2637
+    FontColor $dark2
 }
 
 skinparam participant {
-    BackgroundColor CC0033
-    BorderColor CC0033
+    BackgroundColor $red
+    BorderColor $dark2
     FontColor FFF
     BorderThickness 1
 }
 
 skinparam database {
-    BackgroundColor 4FD6E5
-    BorderColor 2B2637
-    FontColor 2B2637
+    BackgroundColor $blue
+    BorderColor $dark1
+    FontColor $dark2
 }
 
 skinparam entity {
-    BackgroundColor 8E99AF
-    BorderColor 2B2637
-    FontColor 2B2637
+    BackgroundColor $gray
+    BorderColor $dark2
+    FontColor $dark2
 }
 
 skinparam note {
-    BackgroundColor 4FD6E5
-    BorderColor 2B2637
-    FontColor 2B2637
+    BackgroundColor $gray
+    BorderColor $dark2
+    FontColor FFF
     BorderThickness 1
 }
 
 skinparam actor {
-    BackgroundColor 2B2637
-    BorderColor 2B2637
-    FontColor 2B2637
+    BackgroundColor $dark2
+    BorderColor $dark2
+    FontColor $dark2
 }
 
 skinparam boundary {
-    BackgroundColor 8E99AF
-    BorderColor 2B2637
-    FontColor 2B2637
+    BackgroundColor $gray
+    BorderColor $dark2
+    FontColor $dark2
 }
 
 skinparam control {
-    BackgroundColor 8E99AF
-    BorderColor 2B2637
-    FontColor 2B2637
+    BackgroundColor $gray
+    BorderColor $dark2
+    FontColor $dark2
+}
+
+skinparam activity {
+    BackgroundColor $red
+    BorderColor $dark2
+    FontColor FFF
 }
 
 skinparam collections {
-    BackgroundColor CC0033
-    BorderColor 2B2637
+    BackgroundColor $red
+    BorderColor $dark2
     FontColor FFF
     BorderThickness 1.5
 }
 
 skinparam queue {
-    BackgroundColor CC0033
-    BorderColor 2B2637
+    BackgroundColor $red
+    BorderColor $dark2
     FontColor FFF
     BorderThickness 1.5
 }
