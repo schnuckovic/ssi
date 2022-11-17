@@ -6,15 +6,15 @@
 ''
 
 ' define colors
-!$red		= "#CC0033"
-!$blue		= "#4fd6e5"
-!$dark1		= "#2c2c44"
-!$dark2		= "#2b2637"
-!$black		= "#080f27"
-!$dark		= "#565669"
-!$gray		= "#8e99af"
-!$lgray		= "#edf2f4"
-!$lblue		= "#ebf9ff"
+!$red	= "#CC0033"
+!$blue	= "#4FD6E5"
+!$dark1	= "#2C2C44"
+!$dark2	= "#2B2637"
+!$black	= "#080F27"
+!$dark	= "#565669"
+!$gray	= "#8E99AF"
+!$lgray	= "#EDF2F4"
+!$lblue	= "#EBF9FF"
 
 ' define font
 skinparam defaultFontName RobotoCondensed-Regular
@@ -39,7 +39,7 @@ skinparam sequenceDivider {
 }
 
 skinparam partition {
-    BackgroundColor $blue
+    BackgroundColor $gray
     BorderColor $dark2
     FontColor $black
     BorderThickness 1
