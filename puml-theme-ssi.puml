@@ -38,6 +38,13 @@ skinparam sequenceDivider {
     FontColor $dark2
 }
 
+skinparam partition {
+    BackgroundColor $blue
+    BorderColor $dark2
+    FontColor $black
+    BorderThickness 1
+}
+
 skinparam participant {
     BackgroundColor $red
     BorderColor $dark2
