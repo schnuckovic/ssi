@@ -39,7 +39,7 @@ skinparam sequenceDivider {
 }
 
 skinparam partition {
-    BackgroundColor $gray
+    BackgroundColor $lgray
     BorderColor $dark2
     FontColor $black
     BorderThickness 1
