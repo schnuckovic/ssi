@@ -20,7 +20,8 @@
 'skinparam defaultFontName RobotoCondensed-Regular
 'skinparam defaultFontName IBMPlexSerif
 'skinparam defaultFontName Liberation Sans Narrow
-skinparam defaultFontName padmaa-Bold.1.1
+'skinparam defaultFontName padmaa-Bold.1.1
+skinparam defaultFontName SansSerif
 
 skinparam BackgroundColor $lblue
 skinparam shadowing false
