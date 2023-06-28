@@ -17,8 +17,8 @@
 !$lblue	= "#EBF9FF"
 
 ' define font
-'skinparam defaultFontName RobotoCondensed-Regular
-skinparam defaultFontName IBMPlexSerif
+skinparam defaultFontName RobotoCondensed-Regular
+'skinparam defaultFontName IBMPlexSerif
 
 skinparam BackgroundColor $lblue
 skinparam shadowing false
